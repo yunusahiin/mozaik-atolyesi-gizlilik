@@ -7,13 +7,13 @@ title: Mozaik Atölyesi — Gizlilik Politikası
 **Uygulama:** Mozaik Atölyesi
 **Geliştirici:** Yunus Şahin
 **İletişim:** yunusahiin2005@gmail.com
-**Son güncelleme:** 1 Kasım 2026
+**Son güncelleme:** 3 Kasım 2026
 
 ## Kısaca
 
 - Mozaik Atölyesi'nin tamamı **çevrimdışı oynanır**. Hesap açman, giriş yapman ya da
   kişisel bilgi vermen gerekmez.
-- Bölüm ilerlemen, ayarların (tema, ses, titreşim) ve yarım kalan tahtaların
+- Bölüm ilerlemen, ayarların (tema, ses, titreşim, bildirimler) ve yarım kalan tahtaların
   **yalnızca cihazında** saklanır. Bize ait bir sunucu yoktur; bu veriler hiçbir yere
   gönderilmez.
 - Uygulama **reklam içerir** (Google AdMob). Reklamları sunmak için cihazının reklam
@@ -26,8 +26,9 @@ Mozaik Atölyesi, Google AdMob üzerinden iki tür reklam gösterir:
 
 - **Ödüllü reklam:** Yalnızca sen "İpucu" düğmesine bastığında oynar ve karşılığında
   tahtada bir bölgeyi çözer. İzlemek tamamen isteğe bağlıdır.
-- **Geçiş reklamı:** İlk 10 bölümden sonra, bölüm geçişlerinde ortalama her 3 bölümde
-  bir tam ekran olarak çıkabilir.
+- **Geçiş reklamı:** İlk 10 bölümden sonra, bölüm geçişlerinde tam ekran olarak
+  çıkabilir. İki reklam arasında en az birkaç dakikalık oyun ve birkaç bölüm olur;
+  boss bölümlerinde ve yeni kural tanıtımlarında reklam çıkmaz.
 
 Oyunun tamamı reklam izlemeden oynanabilir.
 
@@ -60,6 +61,20 @@ zaman **Ayarlar → Gizlilik ve Güvenlik → İzleme** bölümünden değiştir
 
 Reklam kimliğini sıfırlamak ya da silmek için **Ayarlar → Gizlilik → Reklamlar**
 bölümünü kullanabilirsin.
+
+## Bildirimler, sürüm kontrolü ve sorun bildirimi
+
+- **Hatırlatma bildirimleri:** İzin verirsen, bir süre oynamadığında cihazın kendisi
+  **yerel** bir hatırlatma gösterir. Bildirimler cihazında planlanır; hiçbir sunucuya
+  bilgi gönderilmez. Ana ekrandaki zil düğmesinden ya da cihaz ayarlarından
+  kapatabilirsin.
+- **Sürüm kontrolü:** Uygulama açılırken, güncelleme gerekip gerekmediğini öğrenmek için
+  bu sitedeki küçük bir sürüm dosyasını (GitHub Pages) indirir. Bu istekte kişisel veri
+  gönderilmez; GitHub, her web isteğinde olduğu gibi IP adresini teknik olarak görebilir.
+- **Sorun bildir:** Bu bağlantı e-posta uygulamanı açar. Gönderip göndermemek sana
+  kalmıştır. E-postaya uygulama sürümü, cihaz modeli, işletim sistemi sürümü ve bulunduğun
+  bölüm eklenir; bu bilgileri göndermeden önce görebilir ve silebilirsin. Gelen e-postalar
+  yalnızca sorunu çözmek için kullanılır.
 
 ## Çocuklar
 

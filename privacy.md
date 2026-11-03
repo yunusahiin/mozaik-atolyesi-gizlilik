@@ -7,13 +7,13 @@ title: Mozaik Atölyesi — Privacy Policy
 **App:** Mozaik Atölyesi
 **Developer:** Yunus Şahin
 **Contact:** yunusahiin2005@gmail.com
-**Last updated:** November 1, 2026
+**Last updated:** November 3, 2026
 
 ## Summary
 
 - Mozaik Atölyesi is **fully playable offline**. You don't create an account, sign in,
   or provide any personal information.
-- Your level progress, settings (theme, sound, haptics) and unfinished boards are stored
+- Your level progress, settings (theme, sound, haptics, notifications) and unfinished boards are stored
   **only on your device**. We run no servers, and this data is never sent anywhere.
 - The app **contains ads** (Google AdMob). To serve ads, Google processes your device's
   advertising identifier and some technical information.
@@ -26,7 +26,8 @@ Mozaik Atölyesi shows two kinds of ads through Google AdMob:
 - **Rewarded ads:** played only when you tap the "Hint" button; in return, one region of
   the board is solved for you. Watching is entirely optional.
 - **Interstitial ads:** after the first 10 levels, a full-screen ad may appear between
-  levels, on average once every 3 levels.
+  levels. There are always at least a few minutes of play and several levels between two
+  ads, and none appear on boss levels or new-rule introductions.
 
 The whole game can be played without watching any ad.
 
@@ -59,6 +60,18 @@ Tracking**.
 ### Android: Advertising ID
 
 You can reset or delete your Advertising ID in **Settings → Privacy → Ads**.
+
+## Notifications, version check and problem reports
+
+- **Reminder notifications:** if you allow it, your device shows a **local** reminder after
+  you haven't played for a while. Reminders are scheduled on your device; nothing is sent to
+  any server. Turn them off with the bell button on the home screen or in system settings.
+- **Version check:** on launch the app downloads a small version file from this site
+  (GitHub Pages) to see whether an update is required. No personal data is sent; like any
+  web request, GitHub can technically see your IP address.
+- **Report a problem:** this link opens your email app, and sending is up to you. The email
+  includes the app version, device model, OS version and your current level; you can see and
+  remove this before sending. Emails are used only to fix the problem.
 
 ## Children
 
