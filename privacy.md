@@ -7,13 +7,13 @@ title: Mozaik Atölyesi — Privacy Policy
 **App:** Mozaik Atölyesi
 **Developer:** Yunus Şahin
 **Contact:** yunusahiin2005@gmail.com
-**Last updated:** November 3, 2026
+**Last updated:** November 16, 2026
 
 ## Summary
 
 - Mozaik Atölyesi is **fully playable offline**. You don't create an account, sign in,
   or provide any personal information.
-- Your level progress, settings (theme, sound, haptics, notifications) and unfinished boards are stored
+- Your level progress, daily puzzle results and streak, settings (theme, sound, music, haptics, notifications) and unfinished boards are stored
   **only on your device**. We run no servers, and this data is never sent anywhere.
 - The app **contains ads** (Google AdMob). To serve ads, Google processes your device's
   advertising identifier and some technical information.
@@ -64,7 +64,8 @@ You can reset or delete your Advertising ID in **Settings → Privacy → Ads**.
 ## Notifications, version check and problem reports
 
 - **Reminder notifications:** if you allow it, your device shows a **local** reminder after
-  you haven't played for a while. Reminders are scheduled on your device; nothing is sent to
+  you haven't played for a while, and once the daily puzzle is open, a reminder once a day that a
+  new puzzle is ready. Reminders are scheduled on your device; nothing is sent to
   any server. Turn them off with the bell button on the home screen or in system settings.
 - **Version check:** on launch the app downloads a small version file from this site
   (GitHub Pages) to see whether an update is required. No personal data is sent; like any

@@ -7,13 +7,13 @@ title: Mozaik Atölyesi — Gizlilik Politikası
 **Uygulama:** Mozaik Atölyesi
 **Geliştirici:** Yunus Şahin
 **İletişim:** yunusahiin2005@gmail.com
-**Son güncelleme:** 3 Kasım 2026
+**Son güncelleme:** 16 Kasım 2026
 
 ## Kısaca
 
 - Mozaik Atölyesi'nin tamamı **çevrimdışı oynanır**. Hesap açman, giriş yapman ya da
   kişisel bilgi vermen gerekmez.
-- Bölüm ilerlemen, ayarların (tema, ses, titreşim, bildirimler) ve yarım kalan tahtaların
+- Bölüm ilerlemen, günün bulmacası sonuçların ve serin, ayarların (tema, ses, müzik, titreşim, bildirimler) ve yarım kalan tahtaların
   **yalnızca cihazında** saklanır. Bize ait bir sunucu yoktur; bu veriler hiçbir yere
   gönderilmez.
 - Uygulama **reklam içerir** (Google AdMob). Reklamları sunmak için cihazının reklam
@@ -65,7 +65,8 @@ bölümünü kullanabilirsin.
 ## Bildirimler, sürüm kontrolü ve sorun bildirimi
 
 - **Hatırlatma bildirimleri:** İzin verirsen, bir süre oynamadığında cihazın kendisi
-  **yerel** bir hatırlatma gösterir. Bildirimler cihazında planlanır; hiçbir sunucuya
+  **yerel** bir hatırlatma gösterir; günün bulmacası açıldıktan sonra günde bir kez yeni
+  bulmacanın hazır olduğunu da hatırlatır. Bildirimler cihazında planlanır; hiçbir sunucuya
   bilgi gönderilmez. Ana ekrandaki zil düğmesinden ya da cihaz ayarlarından
   kapatabilirsin.
 - **Sürüm kontrolü:** Uygulama açılırken, güncelleme gerekip gerekmediğini öğrenmek için
